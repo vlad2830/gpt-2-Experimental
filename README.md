@@ -1,3 +1,6 @@
+Сделано для экспериментов над gpt-2
+
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # gpt-2
